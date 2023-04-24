@@ -2,7 +2,6 @@
 #define NOMINMAX
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
-#include "olcNoiseMaker.h"
 
 #include <stdio.h>
 #include <string.h>
